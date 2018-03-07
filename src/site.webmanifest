@@ -1,5 +1,11 @@
 {
-    "start_url": "/",
+    "name": "web app name",
+    "short_name": "web app homescreen-name ",
+    "description": "A web app built with React, Redux, NPM",
+    "lang": "en-US",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#1a237e",
     "icons": [{
         "src": "img/favicon.png",
         "sizes": "192x192",
