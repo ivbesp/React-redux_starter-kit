@@ -103,6 +103,5 @@ typings/
 # dotenv environment variables file
 .env
 
-#public directory
-public/
+
 
